@@ -1,0 +1,12 @@
+{
+  "name": "step01_strong_typing",
+  "version": "1.0.0",
+  "description": "strong typing",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
